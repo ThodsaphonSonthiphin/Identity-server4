@@ -20,3 +20,5 @@ Api/bin/
 client/obj/
 
 client/bin/Debug/
+
+MvcClient/obj/
