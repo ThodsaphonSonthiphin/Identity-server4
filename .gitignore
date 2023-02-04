@@ -2,3 +2,11 @@
 *.vsidx
 
 .vs/Quickstart/v17/.suo
+
+src/IdentityServer/obj/
+
+src/IdentityServer/bin/
+
+src/IdentityServer/tempkey.jwk
+
+.vs/Quickstart/config/applicationhost.config
