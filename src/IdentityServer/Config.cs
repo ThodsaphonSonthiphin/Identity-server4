@@ -16,8 +16,10 @@ namespace IdentityServer
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>
-            new ApiScope[]
-            { };
+            new List<ApiScope>
+            {
+                new ApiScope("api1", "My API")
+            };
 
         public static IEnumerable<Client> Clients =>
             new Client[] 
