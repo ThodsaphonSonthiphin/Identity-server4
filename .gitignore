@@ -14,3 +14,5 @@ src/IdentityServer/tempkey.jwk
 Api/obj/
 
 Api/bin/
+
+.vs/
