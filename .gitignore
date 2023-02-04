@@ -12,3 +12,5 @@ src/IdentityServer/tempkey.jwk
 .vs/Quickstart/config/applicationhost.config
 
 Api/obj/
+
+Api/bin/
