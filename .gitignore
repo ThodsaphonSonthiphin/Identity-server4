@@ -16,3 +16,7 @@ Api/obj/
 Api/bin/
 
 .vs/
+
+client/obj/
+
+client/bin/Debug/
